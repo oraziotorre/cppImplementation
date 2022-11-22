@@ -1,2 +1,2 @@
 # cppImplementation
-Some implementation of basic algorithms and training problems for OII and OIS👨‍💻
+Some implementation of basic algorithms and training problems from [training.olinfo](https://training.olinfo.it/)
